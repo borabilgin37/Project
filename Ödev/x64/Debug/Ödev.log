@@ -1,0 +1,6 @@
+﻿  Ödev.cpp
+C:\Users\kara_\source\repos\Ödev\Ödev\Ödev.cpp(58,27): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kara_\source\repos\Ödev\Ödev\Ödev.cpp(80,33): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kara_\source\repos\Ödev\Ödev\Ödev.cpp(95,33): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kara_\source\repos\Ödev\Ödev\Ödev.cpp(112,33): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  Ödev.vcxproj -> C:\Users\kara_\source\repos\Ödev\x64\Debug\Ödev.exe
